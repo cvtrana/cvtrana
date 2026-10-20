@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rana </h1>
-<h3 align="center">A passionate frontend developer and Competitive programmer from India</h3>
+<h3 align="center">A passionate Software developer and Competitive programmer</h3>
 
 - 🌱 I’m currently a software developer at ION trading **React**
 
