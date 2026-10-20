@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvtrana" alt="cvtrana" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently a software developer at ION trading **React**
 
 - 📫 How to reach me **cvtranaofficial2911@gmail.com**
 
